@@ -1,91 +1,81 @@
-src/CMakeLists.txt
-src/main.cpp
-src/03-ProcStaticLangArch/01-proc-c++incl/.vscode/c_cpp_properties.json
-src/03-ProcStaticLangArch/01-proc-c++incl/.vscode/launch.json
-src/03-ProcStaticLangArch/01-proc-c++incl/bin/task
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.ninja_deps
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.ninja_log
-src/03-ProcStaticLangArch/01-proc-c++incl/build/build.ninja
-src/03-ProcStaticLangArch/01-proc-c++incl/build/cmake_install.cmake
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeCache.txt
-src/03-ProcStaticLangArch/01-proc-c++incl/build/compile_commands.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.cmake/api/v1/query/client-vscode/query.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.cmake/api/v1/reply/cache-v2-5f8dc7cef71e544bd529.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.cmake/api/v1/reply/codemodel-v2-df2b7d5d3208aadf91d6.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.cmake/api/v1/reply/index-2021-10-17T09-35-44-0323.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.cmake/api/v1/reply/target-task-Debug-7c8cd8a0eb5f85746cc5.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/.cmake/api/v1/reply/toolchains-v1-efee5f62d6847fabcbe8.json
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/cmake.check_cache
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/CMakeOutput.log
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/rules.ninja
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/TargetDirectories.txt
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/3.21.3/CMakeCXXCompiler.cmake
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/3.21.3/CMakeDetermineCompilerABI_CXX.bin
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/3.21.3/CMakeSystem.cmake
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/3.21.3/CompilerIdCXX/a.out
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/3.21.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/task.dir/container.cpp.o
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/task.dir/main.cpp.o
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/task.dir/rectangle.cpp.o
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/task.dir/shape.cpp.o
-src/03-ProcStaticLangArch/01-proc-c++incl/build/CMakeFiles/task.dir/triangle.cpp.o
-src/03-ProcStaticLangArch/01-proc-c++incl/tests/out01.txt
-src/03-ProcStaticLangArch/01-proc-c++incl/tests/out02.txt
-src/build/build.ninja
-src/build/cmake_install.cmake
-src/build/CMakeCache.txt
-src/build/compile_commands.json
-src/build/CPackConfig.cmake
-src/build/CPackSourceConfig.cmake
-src/build/CTestTestfile.cmake
-src/build/DartConfiguration.tcl
-src/build/.cmake/api/v1/query/client-vscode/query.json
-src/build/.cmake/api/v1/reply/cache-v2-c2cc8c8d69b2428a1385.json
-src/build/.cmake/api/v1/reply/codemodel-v2-a586ee5dc3a670a0ecb2.json
-src/build/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json
-src/build/.cmake/api/v1/reply/index-2021-10-17T09-27-34-0437.json
-src/build/.cmake/api/v1/reply/target-CocmpArch-03-01-Debug-020d92563cb48be2cddb.json
-src/build/.cmake/api/v1/reply/target-Continuous-Debug-5754ba9d9a1e7a78b4e3.json
-src/build/.cmake/api/v1/reply/target-ContinuousBuild-Debug-1b8c01aeeddf4cc7128d.json
-src/build/.cmake/api/v1/reply/target-ContinuousConfigure-Debug-6b1598aed40ceb5d814d.json
-src/build/.cmake/api/v1/reply/target-ContinuousCoverage-Debug-4d627f6d5083c2662ae8.json
-src/build/.cmake/api/v1/reply/target-ContinuousMemCheck-Debug-ac5774cda9dd55bd2c41.json
-src/build/.cmake/api/v1/reply/target-ContinuousStart-Debug-d1db33df0ae156cd8efa.json
-src/build/.cmake/api/v1/reply/target-ContinuousSubmit-Debug-415387c6980d996a314a.json
-src/build/.cmake/api/v1/reply/target-ContinuousTest-Debug-a9daaa4615a2e700aaf0.json
-src/build/.cmake/api/v1/reply/target-ContinuousUpdate-Debug-665f807ad04fcfb3970e.json
-src/build/.cmake/api/v1/reply/target-Experimental-Debug-52e505145eed27a46aa1.json
-src/build/.cmake/api/v1/reply/target-ExperimentalBuild-Debug-69160696a57b9c7fc039.json
-src/build/.cmake/api/v1/reply/target-ExperimentalConfigure-Debug-7d09e36e26cfbb694b7e.json
-src/build/.cmake/api/v1/reply/target-ExperimentalCoverage-Debug-d03ab118245427ccaa72.json
-src/build/.cmake/api/v1/reply/target-ExperimentalMemCheck-Debug-82e24e0955317c047cc9.json
-src/build/.cmake/api/v1/reply/target-ExperimentalStart-Debug-f62e738b8b06962fdb17.json
-src/build/.cmake/api/v1/reply/target-ExperimentalSubmit-Debug-2907c3adc4943dba14bc.json
-src/build/.cmake/api/v1/reply/target-ExperimentalTest-Debug-fa4b3b7490645255bd7a.json
-src/build/.cmake/api/v1/reply/target-ExperimentalUpdate-Debug-68eb8c8d829cb196982a.json
-src/build/.cmake/api/v1/reply/target-Nightly-Debug-0a4b2af9b1d19d7c8028.json
-src/build/.cmake/api/v1/reply/target-NightlyBuild-Debug-4569b07485e952d1f0b2.json
-src/build/.cmake/api/v1/reply/target-NightlyConfigure-Debug-9084bffb14ec51cbab84.json
-src/build/.cmake/api/v1/reply/target-NightlyCoverage-Debug-1154fdc78ed94a311877.json
-src/build/.cmake/api/v1/reply/target-NightlyMemCheck-Debug-2ebdc4a38de7aff359a0.json
-src/build/.cmake/api/v1/reply/target-NightlyMemoryCheck-Debug-28693c44dd0a3d6d525b.json
-src/build/.cmake/api/v1/reply/target-NightlyStart-Debug-a0dfc2a4fb026c966239.json
-src/build/.cmake/api/v1/reply/target-NightlySubmit-Debug-dbadb09ecce1d2229ad8.json
-src/build/.cmake/api/v1/reply/target-NightlyTest-Debug-86659e4fbd3ab3e378dc.json
-src/build/.cmake/api/v1/reply/target-NightlyUpdate-Debug-00fe28d5fa570ce057e0.json
-src/build/.cmake/api/v1/reply/toolchains-v1-d6ea38c889df66dcbf78.json
-src/build/CMakeFiles/cmake.check_cache
-src/build/CMakeFiles/CMakeOutput.log
-src/build/CMakeFiles/rules.ninja
-src/build/CMakeFiles/TargetDirectories.txt
-src/build/CMakeFiles/3.21.3/CMakeCCompiler.cmake
-src/build/CMakeFiles/3.21.3/CMakeCXXCompiler.cmake
-src/build/CMakeFiles/3.21.3/CMakeDetermineCompilerABI_C.bin
-src/build/CMakeFiles/3.21.3/CMakeDetermineCompilerABI_CXX.bin
-src/build/CMakeFiles/3.21.3/CMakeSystem.cmake
-src/build/CMakeFiles/3.21.3/CompilerIdC/a.out
-src/build/CMakeFiles/3.21.3/CompilerIdC/CMakeCCompilerId.c
-src/build/CMakeFiles/3.21.3/CompilerIdCXX/a.out
-src/build/CMakeFiles/3.21.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
-src/build/Testing/Temporary/LastTest.log
+### C++ template
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# User-specific stuff:
+**/.vscode/**
+**/.idea/**
+**/cmake-build-debug/**
+**/CMakeFiles/**
+**/build/**
+**/src/result/**
+*.cmake
+CMakeCache.txt
+Makefile
+Makefile2
+
+
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+
+# Mongo Explorer plugin:
+.idea/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# EO target directory
+**/target
+src/03-ProcStaticLangArch/01-proc-c++incl/bin/
