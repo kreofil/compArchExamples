@@ -1,0 +1,3 @@
+/home/al/Documents/Education/Дисциплины/АрхитектураВС/2021/prog/task02/02-01-oop-c++incl/build/CMakeFiles/rebuild_cache.dir
+/home/al/Documents/Education/Дисциплины/АрхитектураВС/2021/prog/task02/02-01-oop-c++incl/build/CMakeFiles/edit_cache.dir
+/home/al/Documents/Education/Дисциплины/АрхитектураВС/2021/prog/task02/02-01-oop-c++incl/build/CMakeFiles/task.dir

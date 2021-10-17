@@ -1,0 +1,32 @@
+Filled container:
+Container contains 30 elements.
+0: It is Triangle: a = 16, b = 20, c = 15. Perimeter = 51
+1: It is Triangle: a = 2, b = 15, c = 14. Perimeter = 31
+2: It is Triangle: a = 2, b = 9, c = 8. Perimeter = 19
+3: It is Triangle: a = 19, b = 17, c = 18. Perimeter = 54
+4: It is Triangle: a = 1, b = 6, c = 6. Perimeter = 13
+5: It is Triangle: a = 11, b = 12, c = 20. Perimeter = 43
+6: It is Triangle: a = 18, b = 1, c = 18. Perimeter = 37
+7: It is Triangle: a = 13, b = 16, c = 17. Perimeter = 46
+8: It is Triangle: a = 20, b = 7, c = 17. Perimeter = 44
+9: It is Triangle: a = 7, b = 13, c = 9. Perimeter = 29
+10: It is Triangle: a = 4, b = 11, c = 14. Perimeter = 29
+11: It is Triangle: a = 3, b = 2, c = 3. Perimeter = 8
+12: It is Triangle: a = 8, b = 19, c = 18. Perimeter = 45
+13: It is Triangle: a = 11, b = 18, c = 11. Perimeter = 40
+14: It is Triangle: a = 16, b = 13, c = 13. Perimeter = 42
+15: It is Triangle: a = 4, b = 19, c = 16. Perimeter = 39
+16: It is Triangle: a = 11, b = 1, c = 11. Perimeter = 23
+17: It is Triangle: a = 8, b = 13, c = 19. Perimeter = 40
+18: It is Triangle: a = 18, b = 11, c = 9. Perimeter = 38
+19: It is Triangle: a = 1, b = 18, c = 18. Perimeter = 37
+20: It is Triangle: a = 7, b = 15, c = 15. Perimeter = 37
+21: It is Triangle: a = 3, b = 3, c = 1. Perimeter = 7
+22: It is Triangle: a = 12, b = 1, c = 12. Perimeter = 25
+23: It is Triangle: a = 18, b = 12, c = 8. Perimeter = 38
+24: It is Triangle: a = 3, b = 10, c = 8. Perimeter = 21
+25: It is Triangle: a = 6, b = 15, c = 20. Perimeter = 41
+26: It is Triangle: a = 1, b = 12, c = 12. Perimeter = 25
+27: It is Triangle: a = 11, b = 11, c = 7. Perimeter = 29
+28: It is Triangle: a = 1, b = 6, c = 6. Perimeter = 13
+29: It is Triangle: a = 5, b = 18, c = 15. Perimeter = 38
