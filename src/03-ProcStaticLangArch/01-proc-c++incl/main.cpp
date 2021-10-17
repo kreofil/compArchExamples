@@ -45,7 +45,7 @@ int main(int argc, char* argv[]) {
     container c;
     Init(c);
 
-    ////cout << "argv[1] = " << argv[1] << "\n";
+    //! cout << "argv[1] = " << argv[1] << "\n";
     if(!strcmp(argv[1], "-f")) {
         ifstream ifst(argv[2]);
         In(c, ifst);
