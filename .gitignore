@@ -77,5 +77,6 @@ crashlytics-build.properties
 fabric.properties
 
 # EO target directory
-**/target
-src/03-ProcStaticLangArch/01-proc-c++incl/bin/
+**/target**
+**/bin/**
+**out**.txt
